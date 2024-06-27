@@ -29,7 +29,8 @@
 
 ---
 
+[![React-Router-Menu](https://github.com/dim4ik1985/react-router_menu/actions/workflows/deploy.yml/badge.svg)](https://github.com/dim4ik1985/react-router_menu/actions/workflows/deploy.yml)
 
 ---
 
-## [Переход на сайт]()
+## [Переход на сайт](https://dim4ik1985.github.io/react-router_menu/)
