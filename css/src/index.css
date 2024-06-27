@@ -1,0 +1,27 @@
+@import "normalize.css";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 400px) {
+  body {
+    font-size: 10px;
+  }
+}
+@media screen and (min-width: 800px) {
+  body {
+    font-size: 14px;
+  }
+}
+html {
+  font-size: calc(10px + 4 * (100vw - 400px) / 400);
+}
+
+body {
+  font-family: sans-serif;
+  background: #260F26;
+}
+
+/*# sourceMappingURL=index.css.map */
